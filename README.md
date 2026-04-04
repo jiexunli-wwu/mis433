@@ -1,111 +1,63 @@
 # mis433
 MIS 433: Programming Skills for Business Analytics
 
-# 📓 How to Open and Work on Notebooks in Google Colab
+# How to Open and Work on Notebooks in Google Colab
 
-In this course, you will use **Google Colab** to complete assignments.  
-You will open notebooks from GitHub and work on your own copy.
-
----
-
-## 🚀 Step 1: Open the notebook link
-
-Click the notebook link provided (on GitHub or Canvas).
-
-Example:
-
-https://colab.research.google.com/github/jiexunli-wwu/mis433/blob/main/notebooks/python-basics.ipynb
-
-This will open the notebook in **Google Colab**.
+We will use Google Colab to run and edit notebooks for this course.
 
 ---
 
-## ⚠️ Step 2: Save your own copy (VERY IMPORTANT)
+## Step 1: Open the notebook
 
-Immediately do:
+Use the **"Open in Colab"** link provided in Canvas or in this repository.
 
-**File → Save a copy in Drive**
+Alternatively:
 
-This creates your personal working version.
-
-👉 You must do this before making any changes.
-
----
-
-## ✏️ Step 3: Work on your copy
-
-- Write code in the cells  
-- Run cells using **Shift + Enter**  
-- Add answers and explanations where required  
-
-Colab will automatically save your work as you go.
+1. Go to this GitHub repository  
+2. Click on the notebook file (`.ipynb`)  
+3. Open it using Colab  
 
 ---
 
-## 🔁 Step 4: Run everything before submitting
+## Step 2: Copy to your Drive
 
-Before submitting, always do:
+After the notebook opens in Colab:
 
-**Runtime → Restart and run all**
+1. Click **Copy to Drive**
 
-This ensures:
-- your code runs from start to finish  
-- all outputs are visible  
+This creates your own editable version of the notebook.
 
 ---
 
-## 📤 Step 5: Submit your work
+## Step 3: Complete the assignment
 
-Follow your instructor’s instructions. Typically:
-
-### Option A (recommended)
-Share your Colab link:
-
-**Click "Share" → set to "Anyone with the link can view"**
+- Run and edit the notebook  
+- Your work will be saved automatically in your Google Drive  
 
 ---
 
-### Option B
-Download and submit the notebook file:
+## Step 4: Save your work to GitHub
 
-**File → Download → .ipynb**
+When you finish your assignment:
 
----
-
-## 📁 Where your file is saved
-
-Your notebook is stored in Google Drive:
-
-**My Drive → Colab Notebooks**
-
-You may organize it into folders, for example:
-
-My Drive → MIS433 → Assignments
+1. Click **File → Save a copy in GitHub**  
+2. Select your `mis433` repository  
+3. Use a clear file name, for example: week2.ipynb
+4. Enter a commit message (e.g., "Week 2 assignment")  
+5. Click **OK**
 
 ---
 
-## ⚠️ Common mistakes to avoid
+## Step 5: Submit your work
 
-- ❌ Editing the original notebook (your work may not be saved)  
-- ❌ Forgetting to save a copy in Drive  
-- ❌ Not running all cells before submitting  
-- ❌ Submitting a file without outputs  
+Submit the link to your notebook on Canvas, for example:
 
----
-
-## 🆘 If something goes wrong
-
-- Notebook not saving?  
-  → Make sure you clicked **Save a copy in Drive**
-
-- Lost your file?  
-  → Check: https://drive.google.com → Colab Notebooks
-
-- Code not working?  
-  → Try: **Runtime → Restart and run all**
+https://github.com/your-username/mis433/blob/main/week2.ipynb
 
 ---
 
-## 🎯 Summary
+## Important Notes
 
-Open link → Save a copy → Work → Run all → Submit
+- Always click **Copy to Drive** before starting your work  
+- Always save your final work to **GitHub (not Gist)**  
+- Do not edit notebooks directly from GitHub  
